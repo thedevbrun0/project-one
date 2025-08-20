@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    padding: 40px;
+    margin: 5px;
+}
+
+.title-1 {
+    font-size: 60px;
+}
+
+.title-2 {
+    font-style: italic;
+}
+
+.container-question1,
+.container-question2,
+.container-question3 {
+    border: 2px solid;
+    text-align: center;
+    padding: 20px;
+    margin: 15px;
+    background: gainsboro;
+
+}
+
+.label {
+    font-size: 25px;
+    font-family: 'Arial Narrow';
+}
+
+.paragraph {
+    font-size: 30px;
+    font-family: 'Georgia';
+}
+
+.reset {
+    background: red;
+    font-size: 40px;
+}
+
+.submit {
+    font-size: 40px;
+}
